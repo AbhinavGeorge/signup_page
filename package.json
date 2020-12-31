@@ -1,0 +1,22 @@
+{
+  "name": "signup_page",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AbhinavGeorge/signup_page.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AbhinavGeorge/signup_page/issues"
+  },
+  "homepage": "https://github.com/AbhinavGeorge/signup_page#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
